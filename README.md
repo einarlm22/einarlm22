@@ -1,6 +1,5 @@
 <pre>
-- I’m currently working on a final project for my BSc degree in Mechatronics Engineering.
-- I’m currently learning Mechatronics engineering at Reykjavik University
+- I’m currently doing my MSc degree in Mechatronics Engineering.
                                     _                                                      
                                     __ -                                                   
                                 /     __   \                                               
